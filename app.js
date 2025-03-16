@@ -1,4 +1,3 @@
-let listaDeNumerosSorteados = [];
 
 function exibirTextoNaTela(tag, texto){
     let campo = document.querySelector(tag);
